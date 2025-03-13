@@ -56,8 +56,8 @@ These topics are moderately challenging and require a deeper understanding. Prac
   Frequency: 3–4 times (trunking and 802.1Q are key).
 - **Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)**  
   Frequency: 3 times (important for troubleshooting).
-- **Configure and verify DHCP client and relay**  
-  Frequency: 3 times (DHCP is commonly tested).
+- **Configure and verify IPv4 and IPv6 static routing**  
+  Frequency: 3–4 times (static routing is fundamental but not overly complex).
 - **Configure and verify access control lists**  
   Frequency: 3–4 times (ACLs are critical for security).
 - **Configure and verify WLAN within the GUI using WPA2 PSK**  
@@ -71,8 +71,8 @@ These topics are more complex and require hands-on practice to master. Practice 
 
 - **Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)**  
   Frequency: 4–5 times (EtherChannel can be tricky).
-- **Configure and verify IPv4 and IPv6 static routing**  
-  Frequency: 4–5 times (static routing is fundamental).
+- **Configure and verify DHCP client and relay**  
+  Frequency: 4–5 times (DHCP relay can be challenging).
 - **Configure and verify single area OSPFv2**  
   Frequency: 4–5 times (OSPF is a major topic).
 - **Configure and verify inside source NAT using static and pools**  
