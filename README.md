@@ -10,21 +10,31 @@ https://subnettingpractice.com
 https://www.learncisco.net/tests/ccna-200-301?mode=exam
 ##
 40:10 explains what labs will look like:https://www.youtube.com/live/8uQX-keghT4
-## Configure and Verify
-1.Configure and verify IPv4 addressing and subnetting
-2.Configure and verify IPv6 addressing and prefix
-3.Configure and verify VLANs (normal range) spanning multiple switches
-4.Configure and verify interswitch connectivity
-5.Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)
-6.Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)
-7.Configure and verify IPv4 and IPv6 static routing
-8.Configure and verify single area OSPFv2
-9.Configure and verify inside source NAT using static and pools
-10.Configure and verify NTP operating in a client and server mode
-11.Configure and verify DHCP client and relay
-12.Configure and verify device access control using local passwords
-13.Configure and verify access control lists
-14.Configure and verify WLAN within the GUI using WPA2 PSK
+
+configure_and_verify:
+  - IPv4_addressing_and_subnetting: "Configure and verify IPv4 addressing and subnetting"
+  - IPv6_addressing_and_prefix: "Configure and verify IPv6 addressing and prefix"
+  - VLANs: "Configure and verify VLANs (normal range) spanning multiple switches"
+  - interswitch_connectivity: "Configure and verify interswitch connectivity"
+  - layer2_discovery_protocols: "Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)"
+  - etherchannel: "Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)"
+  - static_routing: 
+      ipv4: "Configure and verify IPv4 static routing"
+      ipv6: "Configure and verify IPv6 static routing"
+  - ospf:
+      single_area_ospfv2: "Configure and verify single area OSPFv2"
+  - nat:
+      inside_source_nat: "Configure and verify inside source NAT using static and pools"
+  - ntp:
+      client_server_mode: "Configure and verify NTP operating in a client and server mode"
+  - dhcp:
+      client_relay: "Configure and verify DHCP client and relay"
+  - device_access_control:
+      local_passwords: "Configure and verify device access control using local passwords"
+  - acl: "Configure and verify access control lists"
+  - wlan:
+      gui_wpa2_psk: "Configure and verify WLAN within the GUI using WPA2 PSK"
+
 
 ## Configure
 Configure network devices for remote access using SSH
@@ -69,11 +79,11 @@ These topics are moderately challenging and require a deeper understanding. Prac
 
 These topics are more complex and require hands-on practice to master. Practice them **4–5 times** or more until you’re fully confident.
 
-- **Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)**  (Day23)
+- **Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)(PAGP)(Day23)**  
   Frequency: 4–5 times (EtherChannel can be tricky).
 - **Configure and verify DHCP client and relay**  
   Frequency: 4–5 times (DHCP relay can be challenging).
 - **Configure and verify single area OSPFv2**  
   Frequency: 4–5 times (OSPF is a major topic).
-- **Configure and verify inside source NAT using static and pools**  (Day53)
+- **Configure and verify inside source NAT using static and pool(Day53)s**  
   Frequency: 4–5 times (NAT is challenging but essential).
