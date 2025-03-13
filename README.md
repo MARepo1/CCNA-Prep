@@ -81,7 +81,7 @@ These topics are more complex and require hands-on practice to master. Practice 
 
 - **Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)(PAGP)(Day23)**  
   Frequency: 4–5 times (EtherChannel can be tricky).
-- **Configure and verify DHCP client and relay**  
+- **Configure and verify DHCP client and relay(Day 39)**  
   Frequency: 4–5 times (DHCP relay can be challenging).
 - **Configure and verify single area OSPFv2**  
   Frequency: 4–5 times (OSPF is a major topic).
