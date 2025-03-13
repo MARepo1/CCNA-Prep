@@ -69,11 +69,11 @@ These topics are moderately challenging and require a deeper understanding. Prac
 
 These topics are more complex and require hands-on practice to master. Practice them **4–5 times** or more until you’re fully confident.
 
-- **Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)**  
+- **Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)**  (Day23)
   Frequency: 4–5 times (EtherChannel can be tricky).
 - **Configure and verify DHCP client and relay**  
   Frequency: 4–5 times (DHCP relay can be challenging).
 - **Configure and verify single area OSPFv2**  
   Frequency: 4–5 times (OSPF is a major topic).
-- **Configure and verify inside source NAT using static and pools**  
+- **Configure and verify inside source NAT using static and pools**  (Day53)
   Frequency: 4–5 times (NAT is challenging but essential).
