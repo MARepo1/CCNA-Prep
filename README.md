@@ -85,5 +85,5 @@ These topics are more complex and require hands-on practice to master. Practice 
   Frequency: 4–5 times (DHCP relay can be challenging).
 - **Configure and verify single area OSPFv2(Day 26, 27, 28)**  
   Frequency: 4–5 times (OSPF is a major topic).
-- **Configure and verify inside source NAT using static and pool(Day53)s**  
+- **Configure and verify inside source NAT using static and pool(Day44, Day45)s**  
   Frequency: 4–5 times (NAT is challenging but essential).
