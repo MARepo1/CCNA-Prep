@@ -4,6 +4,7 @@
 
 ## jeremy it flashcards in quizlet
 https://quizlet.com/user/lilchris3609/folders/ccna?funnelUUID=7ae6de0c-2787-420d-9343-7d172e80cfc3
+## jeremy it labs google drive link:https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi
 ## subnetting
 https://subnettingpractice.com
 ## test
