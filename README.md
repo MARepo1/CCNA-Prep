@@ -61,17 +61,17 @@ These topics are foundational and relatively straightforward. Practice them **2�
 
 These topics are moderately challenging and require a deeper understanding. Practice them **3–4 times** to build confidence.
 
-- **Configure and verify VLANs (normal range) spanning multiple switches**  
+- **Configure and verify VLANs (normal range) spanning multiple switches Day 16**  
   Frequency: 3–4 times (VLANs are a core topic).
-- **Configure and verify interswitch connectivity**  
+- **Configure and verify interswitch connectivity Day 17**  
   Frequency: 3–4 times (trunking and 802.1Q are key).
-- **Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)**  
+- **Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP) Day 36**  
   Frequency: 3 times (important for troubleshooting).
 - **Configure and verify IPv4 and IPv6 static routing**  
   Frequency: 3–4 times (static routing is fundamental but not overly complex).
-- **Configure and verify access control lists**  
+- **Configure and verify access control lists Day 34**  
   Frequency: 3–4 times (ACLs are critical for security).
-- **Configure and verify WLAN within the GUI using WPA2 PSK**  
+- **Configure and verify WLAN within the GUI using WPA2 PSK Day58**  
   Frequency: 3 times (GUI-based, but wireless is important).
 
 ---
